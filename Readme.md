@@ -2,7 +2,7 @@
 
 ## CAR GALLERY
 
-It is a Photo gallery for car where every one can download and use it for free .
+It is a Photo gallery for cars where every one can download and use it for free .
 
 
 # [Link For CAR GALLERY][def]
