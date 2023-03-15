@@ -2,7 +2,7 @@
 
 ## Description 
 
-This  Car Gallery  us Helping People to download photos for free .
+This  Car Gallery Helping us to download photos for free .
 
 ### Approach 
 
